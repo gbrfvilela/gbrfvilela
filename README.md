@@ -1,8 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Gabriel%20Vilela%20-%20BIM%20Architect%20+%20future%20Data%20Scientist&fontSize=25)
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Gabriel+Vilela;I'm+from+Brazil;BIM+Architect+and+future+Data+Scientist)](https://git.io/typing-svg)
 
 
 <!--
