@@ -1,6 +1,11 @@
 # Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Gabriel%20Vilela%20-%20BIM%20Architect%20+%20future%20Data%20Scientist&fontSize=25)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-fvilela/)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
 
 
 <!--
