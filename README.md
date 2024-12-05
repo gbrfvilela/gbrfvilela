@@ -1,9 +1,9 @@
 # Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=100&section=header&text=Gabriel%20Vilela%20-%20BIM%20Architect%20+%20future%20Data%20Scientist&fontSize=25)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-fvilela/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gbrfvilela)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-fvilela/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gbrfvilela) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=SQL&logoColor=0D1117)
 
 
 
