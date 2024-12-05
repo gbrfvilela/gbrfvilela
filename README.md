@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=rect&color=hexcode#B0C1B5&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=hexcode:#B0C1B5&height=300&section=header&text=capsule%20render&fontSize=90)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Gabriel+Vilela;I'm+from+Brazil;BIM+Architect+and+future+Data+Scientist)](https://git.io/typing-svg)
